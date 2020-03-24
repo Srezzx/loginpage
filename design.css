@@ -1,0 +1,50 @@
+body 
+{
+  background: linear-gradient(to right, #cc99ff 0%, #66ccff 100%);
+}
+
+.jumbotron
+{
+	height:150px;
+	width:400px;
+	padding:0;
+	margin:20px auto;
+}
+.heading
+{
+	text-align: center;
+	padding-top:30px;
+}
+.textbelowheading
+{
+	text-align: center;
+}
+
+.loginbar
+{
+
+	width:450px;
+	margin:50px auto;
+	
+	border-right: 50%;
+	padding: 40px;
+}
+.colorofloginbar
+{
+	background: linear-gradient(to left, #cc99ff 0%, #66ccff 100%);
+}
+
+input
+{
+	width:150px;
+}
+
+.buttonwid
+{
+	width:100px;
+}
+
+.dontdisplay
+{
+	display: none;
+}
